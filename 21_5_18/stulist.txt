@@ -1,0 +1,5 @@
+Ram 1 10 50
+Laxman 2 10 60
+Bharat 3 10 70
+Krishna 4 9 30
+Shiva 5 8 60

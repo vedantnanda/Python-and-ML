@@ -1,0 +1,1 @@
+PASS CERTIFICATE: This is to certify that Mr/Mrs. {0} of class {1}, whose roll number is {2}, has scored {3}% in his/her board Exams
