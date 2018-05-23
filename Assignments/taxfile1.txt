@@ -1,0 +1,6 @@
+Emma 20000
+Eva 40000
+Adam 10000
+Mia 80000
+Charl 200000
+Mikey 60000

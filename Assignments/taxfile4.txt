@@ -1,0 +1,6 @@
+Emma 450000
+Charl 10000
+Mia 80000
+Evan 500600
+Ava 20000
+Larry 60000
